@@ -1,0 +1,16 @@
+#+TITLE: STAT330 Syllabus
+#+OPTIONS: toc:nil
+#+OPTIONS: num:nil
+
+* Text Book: Alan Agresti: An Introduction to Categorical Data Analysis, second edition (2007) ISBN 978-0-471-22618-5.
+** Course Curriculum :
+- Chapter 1 except 1.4.4, 1.4.5
+- Chapter 2 except 2.6.4
+- Chapter 3 except 3.2.5, 3.3.4
+- Chapter 4 except 4.2.6, 4.2.7
+- Chapter 5 except 5.1.6, 5.1.7, 5.1.8, 5.4.5, 5.5.2, 5.5.3
+- Chapter 6 except 6.2.7, 6.4.2, 6.4.3, 6.4.4
+- Chapter 7.1-7.1.6, 7.2- 7.2.4, 7.3- 7.3.4
+*** Some additional notes will be handed out during the course. These notes will also be syllabus.
+*** The power point presentations and given exercises are syllabus.
+** You must be able to use output from SAS and Minitab and to produce and use output from R.
